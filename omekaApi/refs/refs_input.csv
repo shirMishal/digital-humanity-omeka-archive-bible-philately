@@ -1,1 +1,63 @@
-
+o:is_public,o:owner,dcterms:resource_class,o:resource_template,o:item_set,dcterms:title,dcterms:description,bibo:volume,bibo:chapter,bibo:number,dcterms:bibleVersion,dcterms:language,dcterms:isPartOf
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Genesis,https://biblia.com/bible/asv/Ge1.2,Genesis,1,2,ASV,English; Hebrew,05/02
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Genesis,https://biblia.com/bible/asv/Ge1.3,Genesis,1,3,ASV,English; Hebrew,05/03
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Genesis,https://biblia.com/bible/asv/Ge1.3,Genesis,1,3,ASV,English; Hebrew,05/07
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Genesis,https://biblia.com/bible/asv/Ge1.6,Genesis,1,6,ASV,English; Hebrew,05/08
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Genesis,https://biblia.com/bible/asv/Ge1.3,Genesis,1,3,ASV,English; Hebrew,05/16
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Genesis,https://biblia.com/bible/asv/Ge1.6,Genesis,1,6,ASV,English; Hebrew,05/16
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Genesis,https://biblia.com/bible/asv/Ge1.10,Genesis,1,10,ASV,English; Hebrew,05/17
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Genesis,https://biblia.com/bible/asv/Ge1.14,Genesis,1,14,ASV,English; Hebrew,05/17
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Genesis,https://biblia.com/bible/asv/Ge1.20,Genesis,1,20,ASV,English; Hebrew,05/18
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Genesis,https://biblia.com/bible/asv/Ge1.27,Genesis,1,27,ASV,English; Hebrew,05/18
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Genesis,https://biblia.com/bible/asv/Ge1.10,Genesis,1,10,ASV,English; Hebrew,05/21
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Genesis,https://biblia.com/bible/asv/Ge1.14,Genesis,1,14,ASV,English; Hebrew,05/22
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Genesis,https://biblia.com/bible/asv/Ge1.20,Genesis,1,20,ASV,English; Hebrew,05/23
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Genesis,https://biblia.com/bible/esv/Ge1.27,Genesis,1,27,ESV,English; Hebrew,05/24
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Genesis,https://biblia.com/bible/asv/Ge1-2,Genesis,1-2,,ASV,English; Hebrew,05/25
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Deuter,https://biblia.com/bible/asv/Dt6.21,Deuter,6,21,ESV,English,12/01
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Deuter,https://biblia.com/bible/asv/Dt6.21,Deuter,6,21,ESV,English; Hebrew,12/02
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Exodus,https://biblia.com/bible/asv/Ex14.23,Exodus,14,23,ESV,English; Hebrew,12/03
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Exodus,https://biblia.com/bible/asv/Ex5.1,Exodus,5,1,ASV,English,12/04
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Exodus,https://biblia.com/bible/asv/Ex5.1,Exodus,5,1,ASV,English; Hebrew,12/05
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Exodus,https://biblia.com/bible/asv/Ex9.25,Exodus,9,25,ASV,English; Hebrew,12/07
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Exodus,https://biblia.com/bible/asv/Ex5.1,Exodus,5,1,ASV,English; Hebrew; French,12/08
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Exodus,https://biblia.com/bible/esv/Ex1.14,Exodus,1,14,ESV,Hebrew,12/09
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Deuter,https://biblia.com/bible/esv/Dt26.8,Deuter,26,8,ESV,English; Hebrew,12/09
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Genesis,https://biblia.com/bible/esv/Ge39.12,Genesis,39,12,ESV,English,12/11
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Genesis,https://biblia.com/bible/esv/Ge39.17,Genesis,39,17,ESV,English; Hebrew,12/12
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Genesis,https://biblia.com/bible/esv/Ge41.6,Genesis,41,6,ESV,English,12/13
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Genesis,https://biblia.com/bible/esv/Ge41.6,Genesis,41,6,ESV,English; Hebrew,12/14
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Genesis,https://biblia.com/bible/esv/Ge37.25,Genesis,37,25,ESV,English; Hebrew,12/16
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Genesis,https://biblia.com/bible/esv/Ge41.35,Genesis,41,35,ESV,English; Hebrew,12/17
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Genesis,https://biblia.com/bible/esv/Ge39.12,Genesis,39,12,ESV,English; Hebrew,12/19
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Genesis,https://biblia.com/bible/esv/Ge41.6,Genesis,41,6,ESV,English; Hebrew,12/20
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Deuter,https://biblia.com/bible/esv/Dt6.21,Deuter,6,21,ESV,English; Hebrew,12/21
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Exodus,https://biblia.com/bible/esv/Ex2.6,Exodus,2,6,ESV,English; Hebrew,12/23
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Exodus,https://biblia.com/bible/esv/Ex2.10,Exodus,2,10,ESV,English; Hebrew,12/24
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Exodus,https://biblia.com/bible/esv/Ex2.6,Exodus,2,6,ESV,English,12/25
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Exodus,https://biblia.com/bible/asv/Ex7.10,Exodus,7,10,ASV,Hebrew,12/26
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Exodus,https://biblia.com/bible/esv/Ex7.10,Exodus,7,10,ESV,English; Hebrew,12/27
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Exodus,https://biblia.com/bible/esv/Ex7.12,Exodus,7,12,ESV,English; Hebrew,12/29
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Exodus,https://biblia.com/bible/asv/Ex3.2,Exodus,3,2,ASV,English; Hebrew,14/02
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Exodus,https://biblia.com/bible/asv/Ex17.11,Exodus,17,11,ASV,English; Hebrew,14/04
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Exodus,https://biblia.com/bible/asv/Ex14.29,Exodus,14,29,ASV,English; Hebrew,14/07
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Exodus,https://biblia.com/bible/asv/Ex3.2,Exodus,3,2,ASV,English; Hebrew,14/08
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Exodus,https://biblia.com/bible/asv/Ex14.29,Exodus,14,29,ASV,English; Hebrew,14/09
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Exodus,https://biblia.com/bible/asv/Ex14.22,Exodus,14,22,ASV,English; Hebrew,14/11
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Genesis,https://biblia.com/bible/asv/Ge7.17,Genesis,7,17,ASV,English; Hebrew,08/01
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Genesis,https://biblia.com/bible/asv/Ge7.17,Genesis,7,17,,English; Hebrew,08/02
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Genesis,https://biblia.com/bible/asv/Ge7-8,Genesis,7-8,,ASV,English; Hebrew,08/03
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Genesis,https://biblia.com/bible/asv/Ge7.12,Genesis,7,12,ASV,English; Hebrew,08/04
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Genesis,https://biblia.com/bible/asv/Ge8.12,Genesis,8,12,ASV,English; Hebrew,08/07
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Genesis,https://biblia.com/bible/esv/Ge6.14,Genesis,6,14,,English; Hebrew,08/10
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Genesis,https://biblia.com/bible/asv/Ge7.9,Genesis,7,9,ASV,English; Hebrew,08/13
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Genesis,https://biblia.com/bible/nlt/Ge8.1,Genesis,8,1,NLT,English; Hebrew,08/16
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Genesis,https://biblia.com/bible/esv/Ge8.11,Genesis,8,11,ESV,English; Hebrew,08/17
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Genesis,https://biblia.com/bible/esv/Ge7.11,Genesis,7,11,ESV,English; Hebrew,08/18
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Genesis,https://biblia.com/bible/asv/Ge9.13,Genesis,9,13,ASV,English; Hebrew,08/20
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Genesis,https://biblia.com/bible/asv/Ge8.19,Genesis,8,19,ASV,English; Hebrew,08/22
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Genesis,https://biblia.com/bible/kjv1900/Ge8.11,Genesis,8,11,KJV,English; Hebrew,08/26
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Genesis,https://biblia.com/bible/asv/Ge8.4,Genesis,8,4,ASV,English; Hebrew,08/27
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Genesis,https://biblia.com/bible/asv/Ge8.4,Genesis,8,4,ASV,English,08/28
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Genesis,https://biblia.com/bible/asv/Ge9.13,Genesis,9,13,ASV,English; Hebrew,08/28
+1,shirmdesign@gmail.com,Text,Bible Reference,18,Genesis,https://biblia.com/bible/asv/Ge8.4,Genesis,8,4,ASV,English; Hebrew,08/29
