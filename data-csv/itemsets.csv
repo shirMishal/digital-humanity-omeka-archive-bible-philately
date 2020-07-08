@@ -1,0 +1,9 @@
+o:is_public,o:owner,dcterms:resource_class,dcterms:title,dcterms:description
+1,1,Collection,Albums,Set of all albums in the collection.
+1,1,Collection,Pages,Set of all pages in the collection.
+1,1,Physical Object,Philatelic items,Set of all philatelic items in the collection.
+1,1,Physical Object,Stamps,Set of all single stamp item (mint or used) in the collection.
+1,1,Physical Object,Stamps blocks,Set of all stamps blocks in the collection.
+1,1,Physical Object,Souvenir leaf,Set of all souvenir leafs in the collection.
+1,1,Reference Source,Bible references,Set of all bible references in the collection.
+1,1,Quote,Bible quotes,Set of all bible quotes in the collection.
