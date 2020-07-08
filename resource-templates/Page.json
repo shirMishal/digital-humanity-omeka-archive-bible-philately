@@ -1,0 +1,71 @@
+{
+    "o:label": "Page",
+    "o:resource_template_property": [
+        {
+            "o:alternate_label": null,
+            "o:alternate_comment": "A name given to the resource. Usually the title at the page if exist.",
+            "o:is_required": true,
+            "o:is_private": false,
+            "data_type_name": "literal",
+            "data_type_label": "Text",
+            "vocabulary_namespace_uri": "http:\/\/purl.org\/dc\/terms\/",
+            "vocabulary_label": "Dublin Core",
+            "local_name": "title",
+            "label": "Title"
+        },
+        {
+            "o:alternate_label": null,
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "o:is_private": false,
+            "data_type_name": null,
+            "data_type_label": null,
+            "vocabulary_namespace_uri": "http:\/\/purl.org\/dc\/terms\/",
+            "vocabulary_label": "Dublin Core",
+            "local_name": "description",
+            "label": "Description"
+        },
+        {
+            "o:alternate_label": "Album num\/Page num",
+            "o:alternate_comment": "format: 05\/13 for album 5 page 13",
+            "o:is_required": false,
+            "o:is_private": false,
+            "data_type_name": null,
+            "data_type_label": null,
+            "vocabulary_namespace_uri": "http:\/\/purl.org\/dc\/terms\/",
+            "vocabulary_label": "Dublin Core",
+            "local_name": "identifier",
+            "label": "Identifier"
+        },
+        {
+            "o:alternate_label": "number of elements",
+            "o:alternate_comment": "The number of philatelic elements contained in the page",
+            "o:is_required": false,
+            "o:is_private": false,
+            "data_type_name": null,
+            "data_type_label": null,
+            "vocabulary_namespace_uri": "http:\/\/purl.org\/ontology\/bibo\/",
+            "vocabulary_label": "Bibliographic Ontology",
+            "local_name": "numPages",
+            "label": "number of pages"
+        },
+        {
+            "o:alternate_label": null,
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "o:is_private": false,
+            "data_type_name": "resource:item",
+            "data_type_label": "Item",
+            "vocabulary_namespace_uri": "http:\/\/purl.org\/dc\/terms\/",
+            "vocabulary_label": "Dublin Core",
+            "local_name": "isPartOf",
+            "label": "Is Part Of"
+        }
+    ],
+    "o:resource_class": {
+        "vocabulary_namespace_uri": "http:\/\/purl.org\/dc\/dcmitype\/",
+        "vocabulary_label": "Dublin Core Type",
+        "local_name": "Collection",
+        "label": "Collection"
+    }
+}

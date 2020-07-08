@@ -1,0 +1,59 @@
+{
+    "o:label": "Album",
+    "o:resource_template_property": [
+        {
+            "o:alternate_label": null,
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "o:is_private": false,
+            "data_type_name": null,
+            "data_type_label": null,
+            "vocabulary_namespace_uri": "http:\/\/purl.org\/dc\/terms\/",
+            "vocabulary_label": "Dublin Core",
+            "local_name": "title",
+            "label": "Title"
+        },
+        {
+            "o:alternate_label": null,
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "o:is_private": false,
+            "data_type_name": null,
+            "data_type_label": null,
+            "vocabulary_namespace_uri": "http:\/\/purl.org\/dc\/terms\/",
+            "vocabulary_label": "Dublin Core",
+            "local_name": "description",
+            "label": "Description"
+        },
+        {
+            "o:alternate_label": "Album number",
+            "o:alternate_comment": "Album number.",
+            "o:is_required": false,
+            "o:is_private": false,
+            "data_type_name": null,
+            "data_type_label": null,
+            "vocabulary_namespace_uri": "http:\/\/purl.org\/ontology\/bibo\/",
+            "vocabulary_label": "Bibliographic Ontology",
+            "local_name": "number",
+            "label": "number"
+        },
+        {
+            "o:alternate_label": null,
+            "o:alternate_comment": "The number of pages contained in a album",
+            "o:is_required": false,
+            "o:is_private": false,
+            "data_type_name": null,
+            "data_type_label": null,
+            "vocabulary_namespace_uri": "http:\/\/purl.org\/ontology\/bibo\/",
+            "vocabulary_label": "Bibliographic Ontology",
+            "local_name": "numPages",
+            "label": "number of pages"
+        }
+    ],
+    "o:resource_class": {
+        "vocabulary_namespace_uri": "http:\/\/purl.org\/dc\/dcmitype\/",
+        "vocabulary_label": "Dublin Core Type",
+        "local_name": "Collection",
+        "label": "Collection"
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "o:label": "Stamp",
+    "o:resource_template_property": [
+        {
+            "o:alternate_label": null,
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "o:is_private": false,
+            "data_type_name": null,
+            "data_type_label": null,
+            "vocabulary_namespace_uri": "http:\/\/purl.org\/dc\/terms\/",
+            "vocabulary_label": "Dublin Core",
+            "local_name": "title",
+            "label": "Title"
+        },
+        {
+            "o:alternate_label": null,
+            "o:alternate_comment": "A description of the stamp",
+            "o:is_required": false,
+            "o:is_private": false,
+            "data_type_name": null,
+            "data_type_label": null,
+            "vocabulary_namespace_uri": "http:\/\/purl.org\/dc\/terms\/",
+            "vocabulary_label": "Dublin Core",
+            "local_name": "description",
+            "label": "Description"
+        },
+        {
+            "o:alternate_label": null,
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "o:is_private": false,
+            "data_type_name": null,
+            "data_type_label": null,
+            "vocabulary_namespace_uri": "http:\/\/purl.org\/dc\/terms\/",
+            "vocabulary_label": "Dublin Core",
+            "local_name": "issued",
+            "label": "Date Issued"
+        },
+        {
+            "o:alternate_label": "Languages",
+            "o:alternate_comment": "All language appears on the reasourse. first one is the main language.",
+            "o:is_required": false,
+            "o:is_private": false,
+            "data_type_name": null,
+            "data_type_label": null,
+            "vocabulary_namespace_uri": "http:\/\/purl.org\/dc\/terms\/",
+            "vocabulary_label": "Dublin Core",
+            "local_name": "language",
+            "label": "Language"
+        },
+        {
+            "o:alternate_label": null,
+            "o:alternate_comment": "the place which the stamp produced",
+            "o:is_required": false,
+            "o:is_private": false,
+            "data_type_name": null,
+            "data_type_label": null,
+            "vocabulary_namespace_uri": "http:\/\/purl.org\/dc\/terms\/",
+            "vocabulary_label": "Dublin Core",
+            "local_name": "coverage",
+            "label": "Coverage"
+        },
+        {
+            "o:alternate_label": null,
+            "o:alternate_comment": "Mint\\Used this field describes whether or not the stamp has postmark. It is possible to have both values sometimes.",
+            "o:is_required": false,
+            "o:is_private": false,
+            "data_type_name": null,
+            "data_type_label": null,
+            "vocabulary_namespace_uri": "http:\/\/purl.org\/dc\/terms\/",
+            "vocabulary_label": "Dublin Core",
+            "local_name": "type",
+            "label": "Type"
+        },
+        {
+            "o:alternate_label": null,
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "o:is_private": false,
+            "data_type_name": "resource:item",
+            "data_type_label": "Item",
+            "vocabulary_namespace_uri": "http:\/\/purl.org\/dc\/terms\/",
+            "vocabulary_label": "Dublin Core",
+            "local_name": "isPartOf",
+            "label": "Is Part Of"
+        },
+        {
+            "o:alternate_label": null,
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "o:is_private": false,
+            "data_type_name": null,
+            "data_type_label": null,
+            "vocabulary_namespace_uri": "http:\/\/purl.org\/dc\/terms\/",
+            "vocabulary_label": "Dublin Core",
+            "local_name": "identifier",
+            "label": "Identifier"
+        },
+        {
+            "o:alternate_label": "References Locations",
+            "o:alternate_comment": "A related places that is referenced, cited, or otherwise pointed to by the described resource.",
+            "o:is_required": false,
+            "o:is_private": false,
+            "data_type_name": null,
+            "data_type_label": null,
+            "vocabulary_namespace_uri": "http:\/\/purl.org\/dc\/terms\/",
+            "vocabulary_label": "Dublin Core",
+            "local_name": "references",
+            "label": "References"
+        }
+    ],
+    "o:resource_class": {
+        "vocabulary_namespace_uri": "http:\/\/purl.org\/dc\/dcmitype\/",
+        "vocabulary_label": "Dublin Core Type",
+        "local_name": "PhysicalObject",
+        "label": "Physical Object"
+    }
+}

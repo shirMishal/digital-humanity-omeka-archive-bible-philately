@@ -1,0 +1,71 @@
+{
+    "o:label": "Bible Quote",
+    "o:resource_template_property": [
+        {
+            "o:alternate_label": "Quote",
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "o:is_private": false,
+            "data_type_name": null,
+            "data_type_label": null,
+            "vocabulary_namespace_uri": "http:\/\/purl.org\/dc\/terms\/",
+            "vocabulary_label": "Dublin Core",
+            "local_name": "title",
+            "label": "Title"
+        },
+        {
+            "o:alternate_label": "Reference",
+            "o:alternate_comment": "Bible Reference",
+            "o:is_required": false,
+            "o:is_private": false,
+            "data_type_name": "resource:item",
+            "data_type_label": "Item",
+            "vocabulary_namespace_uri": "http:\/\/purl.org\/dc\/terms\/",
+            "vocabulary_label": "Dublin Core",
+            "local_name": "description",
+            "label": "Description"
+        },
+        {
+            "o:alternate_label": "Bible Version",
+            "o:alternate_comment": "Bible version which the quote refer to.",
+            "o:is_required": false,
+            "o:is_private": false,
+            "data_type_name": null,
+            "data_type_label": null,
+            "vocabulary_namespace_uri": "http:\/\/purl.org\/dc\/terms\/",
+            "vocabulary_label": "Dublin Core",
+            "local_name": "hasVersion",
+            "label": "Has Version"
+        },
+        {
+            "o:alternate_label": null,
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "o:is_private": false,
+            "data_type_name": null,
+            "data_type_label": null,
+            "vocabulary_namespace_uri": "http:\/\/purl.org\/dc\/terms\/",
+            "vocabulary_label": "Dublin Core",
+            "local_name": "language",
+            "label": "Language"
+        },
+        {
+            "o:alternate_label": null,
+            "o:alternate_comment": null,
+            "o:is_required": false,
+            "o:is_private": false,
+            "data_type_name": "resource:item",
+            "data_type_label": "Item",
+            "vocabulary_namespace_uri": "http:\/\/purl.org\/dc\/terms\/",
+            "vocabulary_label": "Dublin Core",
+            "local_name": "isPartOf",
+            "label": "Is Part Of"
+        }
+    ],
+    "o:resource_class": {
+        "vocabulary_namespace_uri": "http:\/\/purl.org\/dc\/dcmitype\/",
+        "vocabulary_label": "Dublin Core Type",
+        "local_name": "Text",
+        "label": "Text"
+    }
+}
