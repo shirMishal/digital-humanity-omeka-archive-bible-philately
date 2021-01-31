@@ -7,3 +7,5 @@ Archive was built by using OMEKA-S open source code, at digital humanity course 
 Upload items to the Omka database and use the Omeka API to edit the data and add connections between the various items in the collection.
 The work was done using code in Python to organize the scanned files for easy media upload, as well as code for editing the CSV files. 
 Repository includes the code with input and output files.
+
+### [Link for the full project](https://mishals7.wixsite.com/bible-philately?lang=en)
